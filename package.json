@@ -1,0 +1,26 @@
+{
+  "name": "random-oklch-color",
+  "description": "Generate a random okLCH color.",
+  "author": "@mrmrs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "ava -v"
+  },
+  "repository": "mrmrs/random-oklch-color",
+  "keywords": [
+    "oklch",
+    "lch",
+    "color",
+    "random",
+    "generate",
+    "generative"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^5.3.1"
+  }
+}
